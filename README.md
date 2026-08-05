@@ -2,7 +2,7 @@
 Blockchain assignment 1 2026
 SimpleBlockchain: Assignment 1: Cryptographic Hash Lab
 
-BLCH9X2 — Blockchain (MFE), University of Johannesburg
+BLCH9X2 Blockchain (MFE), University of Johannesburg
 
 Student: Phenyo Thato Molete Student number: 216038155 Due date: 5 August 2026
 
@@ -33,5 +33,5 @@ Project layout
 ├── requirements.txt
 └── README.md
 Notes for the report
-All hash values, attempt counts, and timings in the submitted report are taken directly from my own Colab run — not fabricated.
+All hash values, attempt counts, and timings in the submitted report are taken directly from my own Colab run, not fabricated.
 AI assistance: I used Claude (Anthropic) for guidance on Python syntax and structuring the four required functions, following the patterns demonstrated in the Lecture 01 class notebook. I wrote, ran, and tested all code myself in Google Colab, chose my own test inputs, and wrote the reflection in my own words based on my own measured results.
